@@ -12,7 +12,6 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/pear/console_getopt" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/pear/archive_tar" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/drupal/core-composer-scaffold" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/drupal/core" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/asm89/stack-cors" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/psr/http-factory" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/pear/pear-core-minimal" />

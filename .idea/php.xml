@@ -21,7 +21,6 @@
       <path value="$PROJECT_DIR$/vendor/pear/console_getopt" />
       <path value="$PROJECT_DIR$/vendor/pear/archive_tar" />
       <path value="$PROJECT_DIR$/vendor/drupal/core-composer-scaffold" />
-      <path value="$PROJECT_DIR$/vendor/drupal/core" />
       <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
       <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
       <path value="$PROJECT_DIR$/vendor/pear/pear-core-minimal" />
